@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 0d02d1f6633c0304fb8849abc776889b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce67f3dd62d4346a4fe7be00e04c6c
+      internalID: 1697192909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c9045a43d04c4094b5538a26da2fd
+      internalID: 2126523772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232dbe1105ed35458c18b01a5f6d3fd
+      internalID: 453534644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 445
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7b4a83775c0049aaa8f7fdbc94c0a
+      internalID: -946371030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27919164307a5404fbe25169f1f9ba14
+      internalID: -1835233891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d696bb3bda1f24ea9cdfed941097a5
+      internalID: -599102743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5768270a135f845b213413146b7a95
+      internalID: 1976621148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b093ee2b735a51844aab5d792e1a0829
+      internalID: 353217198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 384
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a496b0368a6794faacabe959f4db06
+      internalID: -1692010205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 384
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7893612af0cb48d41a39cdcd437b95e8
+      internalID: -1086605035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 388
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84a05c54c430847aaae8689bdc0a5a
+      internalID: -103073230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2828a6e35da33449e388ec08ec8bc2
+      internalID: -535616748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12149b1b3e1e32948958b32b48a5cf8e
+      internalID: -1064051566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe707c9adc214e4c8495309480901e4
+      internalID: -919495356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 332
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76c6063f303a64b8434cd7247bceb5
+      internalID: 766586666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 358
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e97541cfa7944c9dcf86135ff38c0
+      internalID: 1641548147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 356
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb86a6a26fe1fe4f9758d2103af3acb
+      internalID: -671393149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 324
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f95ca6e35833840aa98e23551125b5
+      internalID: -1782563383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 325
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb651024ffd9454c8aac574d00a6452
+      internalID: -1542270424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e766fc35ea6d32419929e56f7f14113
+      internalID: -1742755015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d30fae9010064e8d8ef0026354b9a
+      internalID: -1475952213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 273
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54e9e45b0bf3f4d8216ba09bb2ea56
+      internalID: -1181025236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 273
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3aff3c19a2914a9e6a73a1f2fa5eb
+      internalID: 1397244467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 276
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd209dbca4f73e45b2c45ea4dd839d3
+      internalID: 110837705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 277
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6c2c31a7ddea48879d2a5c8139b64
+      internalID: -1865227136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 267
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b7b8b3b920834396ad6c324d2d36f
+      internalID: 308059972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 287
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f581236982714c9bb9954d9098266
+      internalID: -1671387039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 248
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7472293b9b37844face1ffd06e61ec3
+      internalID: 1698440283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 248
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1cd1906cba794cb3f0e910c9f7535
+      internalID: 447347590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 237
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c03cf929eb66d4b9ca63ac3d1fd312
+      internalID: 1337762308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 235
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0154ae9b918934c84f6324e3869527
+      internalID: 261091579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 189
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad266fc1c54a03469e4013d3776e61c
+      internalID: 779950067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 189
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abde94a577ffa041925137fd3b86aa6
+      internalID: 1849647848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 218
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889496a1fcf4474c99e87b65c39b76b
+      internalID: 1224663232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 204
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f6911b42945a4d8ae41b441fe9b98
+      internalID: 657494992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678a0a441114754d88fe1d449bf69d1
+      internalID: -1054341292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83136682a85bd7841b7bb308af623646
+      internalID: -1647450971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b94b50a8881d48bb399fbaa6ee350
+      internalID: -1047662029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332b83e8fdb3ba4e8e9ebcb01e5cca5
+      internalID: 494881266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e8b1019fb9584e89e038fb81fe052
+      internalID: -677260688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f8f8dcf277c8e46a84b73e9aee7af1
+      internalID: 1201974146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1a82585cf76c4c810eae3cbf36dde
+      internalID: 1637139624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d4334de6e45348aa036bd0d3e602a
+      internalID: 245784976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ab086c9d2fb54bb34dce89a63a740
+      internalID: -1746922557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4178ef8557c1c45a8eafbadd25d918
+      internalID: -189304336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1c89c994504f449be102b1139b33d
+      internalID: 913395617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829507ab2c3580b47b61f5b4954ce3e1
+      internalID: 240011944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456233bb6c224341bb280a4552dd7fa
+      internalID: 1771678589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1ab315d03bca498ae421f2e5bb8d0
+      internalID: -311252297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74864c6ea082939438aa8099121b75b6
+      internalID: -370414745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK 1 UPDATED Sprite-0001 all_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b282c1567b6df3f468c70897eb9e3f4a
+      internalID: 1830995480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DARK 1 UPDATED Sprite-0001 all_0: 1697192909
+      DARK 1 UPDATED Sprite-0001 all_1: 2126523772
+      DARK 1 UPDATED Sprite-0001 all_10: -103073230
+      DARK 1 UPDATED Sprite-0001 all_11: -535616748
+      DARK 1 UPDATED Sprite-0001 all_12: -1064051566
+      DARK 1 UPDATED Sprite-0001 all_13: -919495356
+      DARK 1 UPDATED Sprite-0001 all_14: 766586666
+      DARK 1 UPDATED Sprite-0001 all_15: 1641548147
+      DARK 1 UPDATED Sprite-0001 all_16: -671393149
+      DARK 1 UPDATED Sprite-0001 all_17: -1782563383
+      DARK 1 UPDATED Sprite-0001 all_18: -1542270424
+      DARK 1 UPDATED Sprite-0001 all_19: -1742755015
+      DARK 1 UPDATED Sprite-0001 all_2: 453534644
+      DARK 1 UPDATED Sprite-0001 all_20: -1475952213
+      DARK 1 UPDATED Sprite-0001 all_21: -1181025236
+      DARK 1 UPDATED Sprite-0001 all_22: 1397244467
+      DARK 1 UPDATED Sprite-0001 all_23: 110837705
+      DARK 1 UPDATED Sprite-0001 all_24: -1865227136
+      DARK 1 UPDATED Sprite-0001 all_25: 308059972
+      DARK 1 UPDATED Sprite-0001 all_26: -1671387039
+      DARK 1 UPDATED Sprite-0001 all_27: 1698440283
+      DARK 1 UPDATED Sprite-0001 all_28: 447347590
+      DARK 1 UPDATED Sprite-0001 all_29: 1337762308
+      DARK 1 UPDATED Sprite-0001 all_3: -946371030
+      DARK 1 UPDATED Sprite-0001 all_30: 261091579
+      DARK 1 UPDATED Sprite-0001 all_31: 779950067
+      DARK 1 UPDATED Sprite-0001 all_32: 1849647848
+      DARK 1 UPDATED Sprite-0001 all_33: 1224663232
+      DARK 1 UPDATED Sprite-0001 all_34: 657494992
+      DARK 1 UPDATED Sprite-0001 all_35: -1054341292
+      DARK 1 UPDATED Sprite-0001 all_36: -1647450971
+      DARK 1 UPDATED Sprite-0001 all_37: -1047662029
+      DARK 1 UPDATED Sprite-0001 all_38: 494881266
+      DARK 1 UPDATED Sprite-0001 all_39: -677260688
+      DARK 1 UPDATED Sprite-0001 all_4: -1835233891
+      DARK 1 UPDATED Sprite-0001 all_40: 1201974146
+      DARK 1 UPDATED Sprite-0001 all_41: 1637139624
+      DARK 1 UPDATED Sprite-0001 all_42: 245784976
+      DARK 1 UPDATED Sprite-0001 all_43: -1746922557
+      DARK 1 UPDATED Sprite-0001 all_44: -189304336
+      DARK 1 UPDATED Sprite-0001 all_45: 913395617
+      DARK 1 UPDATED Sprite-0001 all_46: 240011944
+      DARK 1 UPDATED Sprite-0001 all_47: 1771678589
+      DARK 1 UPDATED Sprite-0001 all_48: -311252297
+      DARK 1 UPDATED Sprite-0001 all_49: -370414745
+      DARK 1 UPDATED Sprite-0001 all_5: -599102743
+      DARK 1 UPDATED Sprite-0001 all_50: 1830995480
+      DARK 1 UPDATED Sprite-0001 all_6: 1976621148
+      DARK 1 UPDATED Sprite-0001 all_7: 353217198
+      DARK 1 UPDATED Sprite-0001 all_8: -1692010205
+      DARK 1 UPDATED Sprite-0001 all_9: -1086605035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
