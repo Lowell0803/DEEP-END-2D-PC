@@ -8,13 +8,13 @@ Coded by:
 Aquino, Yvan Lowell T.
 
 Arts by: 
-Apostol, Christian G. 
-Baculi, Liah Francheska C. 
-Franco, Aina Jane C. 
-Rosal, Ramil Angelo Jan M. 
-Roxas, Phamela R.
+(1) Apostol, Christian G. 
+(2) Baculi, Liah Francheska C. 
+(3) Franco, Aina Jane C. 
+(4) Rosal, Ramil Angelo Jan M. 
+(5) Roxas, Phamela R.
 
-Controls: Left Mouse Button - Attack E - Skill A and D - Move Left and Right Space - Jump Esc - Pause
+Controls: (1) Left Mouse Button - Attack (2) E - Skill (3) A and D - Move Left and Right (4) Space - Jump (5) Esc - Pause
 
 Note: Dying 10 times will prompt a 'Game Over' Note: Stick to walls then jump to wall jump
 
